@@ -1,0 +1,11 @@
+.container{
+    background-color: black;
+    font-family: sans-serif;
+    color: blueviolet;
+}
+body{
+    background-color: rgb(12, 12, 12);
+}
+.listaItem{
+    background-color: blueviolet;
+}
